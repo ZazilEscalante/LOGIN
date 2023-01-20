@@ -1,0 +1,11 @@
+D:\Loginunisur\Loginunisur\obj\Debug\Loginunisur.csproj.AssemblyReference.cache
+D:\Loginunisur\Loginunisur\obj\Debug\Loginunisur.csproj.SuggestedBindingRedirects.cache
+D:\Loginunisur\Loginunisur\obj\Debug\Loginunisur.Form1.resources
+D:\Loginunisur\Loginunisur\obj\Debug\Loginunisur.Properties.Resources.resources
+D:\Loginunisur\Loginunisur\obj\Debug\Loginunisur.csproj.GenerateResource.cache
+D:\Loginunisur\Loginunisur\obj\Debug\Loginunisur.csproj.CoreCompileInputs.cache
+D:\Loginunisur\Loginunisur\bin\Debug\Loginunisur.exe.config
+D:\Loginunisur\Loginunisur\bin\Debug\Loginunisur.exe
+D:\Loginunisur\Loginunisur\bin\Debug\Loginunisur.pdb
+D:\Loginunisur\Loginunisur\obj\Debug\Loginunisur.exe
+D:\Loginunisur\Loginunisur\obj\Debug\Loginunisur.pdb
